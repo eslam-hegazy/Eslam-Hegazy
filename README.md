@@ -1,16 +1,16 @@
-### Hi there 👋
+### Eslam-Hegazy ✌️
+# Welcome Everyone ✌️
+↣ My Name is Waled Saied , and here are a Projects I'm working on
 
-<!--
-**eslam-hegazy/Eslam-Hegazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+♣️ Computer Science , Competitive Programming
 
-Here are some ideas to get you started:
+♣️ Moblie developer (Flutter - Cross Platform)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➤A mobile app developer is able to create software for phones and tablets, and is familiar with the newest technologies in the mobile world. Mobile development requires staying in the mobile head space, meaning that it's even more important than with other hardware contexts to optimize performance, battery, network, and memory management. A developer must be also aware of how to deal with device fragmentation,often working closely with a designer to achieve the best user experience (UX) results.
+
+➸ Skills :
+> ➽ FrameWork : Flutter 
+     
+     ➽ Science : Java ,Python , OOP, Data Strructure , Algorithm , Database , Clean Code, Clean Architecture
+     
+     ➽ Technology : Getx State Management , Bloc Provider State Management , Firebase , RESTful API , GitHub  
