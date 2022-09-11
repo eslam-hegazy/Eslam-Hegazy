@@ -13,4 +13,4 @@
      
      ➽ Science : Java ,Python , OOP, Data Strructure , Algorithm , Database , Clean Code, Clean Architecture
      
-     ➽ Technology : Getx State Management , Bloc Provider State Management , Firebase , RESTful API , GitHub  
+     ➽ Flutter Technology : Getx State Management , Bloc Provider State Management , Localization ,Firebase , RESTful API , Git , GitHub , Architecure Patterns (MVVM , MVP , MVC ) , Material Design , Push Notifications .
