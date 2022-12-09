@@ -1,6 +1,6 @@
 ### Eslam-Hegazy ✌️
 # Welcome Everyone ✌️
-↣ My Name is Waled Saied , and here are a Projects I'm working on
+↣ My Name is Eslam Heagzy , and here are a Projects I'm working on
 
 ♣️ Computer Science , Competitive Programming
 
