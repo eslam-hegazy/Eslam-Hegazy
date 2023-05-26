@@ -3,12 +3,13 @@
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer+%40RunProf+LLC;Mobile+developer;Computer+Science+Student;Always+learn+new+things" alt="Typing SVG" /></a>
 </P>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslam-hegazy&label=Profile%20views&color=0e75b6&style=flat" alt="eslam-hegazy" width=15%/> </p>
 
-↣ My Name is Eslam Heagzy , and here are a Projects I'm working on
 
-♣️ Computer Science , Competitive Programming
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+<img align="right" src="https://github.com/Nada-Assem/Nada-Assem/blob/main/Right_Side.gif?raw=true" width=30%>
+</p>
 
-♣️ Moblie developer (Flutter - Cross Platform)
 
 ➤A mobile app developer is able to create software for phones and tablets, and is familiar with the newest technologies in the mobile world. Mobile development requires staying in the mobile head space, meaning that it's even more important than with other hardware contexts to optimize performance, battery, network, and memory management. A developer must be also aware of how to deal with device fragmentation,often working closely with a designer to achieve the best user experience (UX) results.
 
