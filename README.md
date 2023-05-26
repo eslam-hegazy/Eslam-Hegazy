@@ -11,7 +11,6 @@
 </p>
 
 
-I am a mobile application developer with experience developing a wide range of tools. I understand the mobile app project lifecycle in-depth, and I am very capable in all aspects of the development of project planning to requirements gathering through to writing and testing code
 
 ➸ Skills :
 > ➽ FrameWork : Flutter 
