@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: I am a `senior` at Faculty of Computers & Informatics at Kafr El-Sheikh University
+- :school: I am a `senior` at Faculty of Computers & Information at Kafr El-Sheikh University
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
